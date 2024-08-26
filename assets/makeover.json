@@ -1,0 +1,386 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/MakeoverOutfits",
+            "When": {
+                "MakeoverOutfitStyle": "Masculine",
+                "PlayerGender": "Female"
+            },
+            "Fields": {
+                "Beanie_ClassyTop_Dress": {
+                    "Gender": "Male"
+                },
+                "LogoCap_SugarShirt_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt72_SimpleDress": {
+                    "Gender": "Male"
+                },
+                "Daisy_Shirt118_Skirt": {
+                    "Gender": "Male"
+                },
+                "StrawHat_GreenButtonedVest_Skirt": {
+                    "Gender": "Male"
+                },
+                "WatermelonBand_Shirt_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt104_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt51_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_High-WaistedShirtBottom_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_TubeTop_TightPants": {
+                    "Gender": "Male"
+                },
+                "None_SlimeShirt_SimpleDress": {
+                    "Gender": "Male"
+                },
+                "None_SailorShirt_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt87_LongDress": {
+                    "Gender": "Male"
+                },
+                "None_Shirt52_RelaxedFitShorts": {
+                    "Gender": "Male"
+                },
+
+                "Beanie_SkullShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_GraySuit_FarmerPants": {
+                    "Gender": null
+                },
+                "StrawHat_YellowSuit_FarmerPants": {
+                    "Gender": null
+                },
+                "None_BlackLeatherJacket_BaggyPants": {
+                    "Gender": null
+                },
+                "None_DarkShirt_TightPants": {
+                    "Gender": null
+                },
+                "TotemMask_FakeMusclesShirt_Shorts": {
+                    "Gender": null
+                },
+                "None_CollaredShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "HardHat_OilStainedShirt_RelaxedFitPants": {
+                    "Gender": null
+                },
+                "PartyHatRed_HappyShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_RetroRainbowShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_Shirt1116_FarmerPants": {
+                    "Gender": null
+                },
+                "None_Shirt1126_BaggyPants": {
+                    "Gender": null
+                },
+                "None_BasicPulloverM_TightPants": {
+                    "Gender": null
+                }
+            }
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/MakeoverOutfits",
+            "When": {
+                "MakeoverOutfitStyle": "Feminine",
+                "PlayerGender": "Male"
+            },
+            "Fields": {
+                "Beanie_ClassyTop_Dress": {
+                    "Gender": null
+                },
+                "LogoCap_SugarShirt_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt72_SimpleDress": {
+                    "Gender": null
+                },
+                "Daisy_Shirt118_Skirt": {
+                    "Gender": null
+                },
+                "StrawHat_GreenButtonedVest_Skirt": {
+                    "Gender": null
+                },
+                "WatermelonBand_Shirt_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt104_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt51_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_High-WaistedShirtBottom_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_TubeTop_TightPants": {
+                    "Gender": null
+                },
+                "None_SlimeShirt_SimpleDress": {
+                    "Gender": null
+                },
+                "None_SailorShirt_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_Shirt87_LongDress": {
+                    "Gender": null
+                },
+                "None_Shirt52_RelaxedFitShorts": {
+                    "Gender": null
+                },
+
+                "Beanie_SkullShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_GraySuit_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "StrawHat_YellowSuit_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_BlackLeatherJacket_BaggyPants": {
+                    "Gender": "Female"
+                },
+                "None_DarkShirt_TightPants": {
+                    "Gender": "Female"
+                },
+                "TotemMask_FakeMusclesShirt_Shorts": {
+                    "Gender": "Female"
+                },
+                "None_CollaredShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "HardHat_OilStainedShirt_RelaxedFitPants": {
+                    "Gender": "Female"
+                },
+                "PartyHatRed_HappyShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_RetroRainbowShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_Shirt1116_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_Shirt1126_BaggyPants": {
+                    "Gender": "Female"
+                },
+                "None_BasicPulloverM_TightPants": {
+                    "Gender": "Female"
+                }
+            }
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/MakeoverOutfits",
+            "When": {
+                "MakeoverOutfitStyle": "Any"
+            },
+            "Fields": {
+                "Beanie_ClassyTop_Dress": {
+                    "Gender": null
+                },
+                "LogoCap_SugarShirt_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt72_SimpleDress": {
+                    "Gender": null
+                },
+                "Daisy_Shirt118_Skirt": {
+                    "Gender": null
+                },
+                "StrawHat_GreenButtonedVest_Skirt": {
+                    "Gender": null
+                },
+                "WatermelonBand_Shirt_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt104_Skirt": {
+                    "Gender": null
+                },
+                "None_Shirt51_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_High-WaistedShirtBottom_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_TubeTop_TightPants": {
+                    "Gender": null
+                },
+                "None_SlimeShirt_SimpleDress": {
+                    "Gender": null
+                },
+                "None_SailorShirt_PleatedSkirt": {
+                    "Gender": null
+                },
+                "None_Shirt87_LongDress": {
+                    "Gender": null
+                },
+                "None_Shirt52_RelaxedFitShorts": {
+                    "Gender": null
+                },
+
+                "Beanie_SkullShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_GraySuit_FarmerPants": {
+                    "Gender": null
+                },
+                "StrawHat_YellowSuit_FarmerPants": {
+                    "Gender": null
+                },
+                "None_BlackLeatherJacket_BaggyPants": {
+                    "Gender": null
+                },
+                "None_DarkShirt_TightPants": {
+                    "Gender": null
+                },
+                "TotemMask_FakeMusclesShirt_Shorts": {
+                    "Gender": null
+                },
+                "None_CollaredShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "HardHat_OilStainedShirt_RelaxedFitPants": {
+                    "Gender": null
+                },
+                "PartyHatRed_HappyShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_RetroRainbowShirt_FarmerPants": {
+                    "Gender": null
+                },
+                "None_Shirt1116_FarmerPants": {
+                    "Gender": null
+                },
+                "None_Shirt1126_BaggyPants": {
+                    "Gender": null
+                },
+                "None_BasicPulloverM_TightPants": {
+                    "Gender": null
+                }
+            }
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/MakeoverOutfits",
+            "When": {
+                "MakeoverOutfitStyle": "NeutralOnly",
+                "PlayerGender": "Female"
+            },
+            "Fields": {
+                "Beanie_ClassyTop_Dress": {
+                    "Gender": "Male"
+                },
+                "LogoCap_SugarShirt_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt72_SimpleDress": {
+                    "Gender": "Male"
+                },
+                "Daisy_Shirt118_Skirt": {
+                    "Gender": "Male"
+                },
+                "StrawHat_GreenButtonedVest_Skirt": {
+                    "Gender": "Male"
+                },
+                "WatermelonBand_Shirt_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt104_Skirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt51_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_High-WaistedShirtBottom_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_TubeTop_TightPants": {
+                    "Gender": "Male"
+                },
+                "None_SlimeShirt_SimpleDress": {
+                    "Gender": "Male"
+                },
+                "None_SailorShirt_PleatedSkirt": {
+                    "Gender": "Male"
+                },
+                "None_Shirt87_LongDress": {
+                    "Gender": "Male"
+                },
+                "None_Shirt52_RelaxedFitShorts": {
+                    "Gender": "Male"
+                }
+                
+            }
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/MakeoverOutfits",
+            "When": {
+                "MakeoverOutfitStyle": "NeutralOnly",
+                "PlayerGender": "Male"
+            },
+            "Fields": {
+                "Beanie_SkullShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_GraySuit_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "StrawHat_YellowSuit_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_BlackLeatherJacket_BaggyPants": {
+                    "Gender": "Female"
+                },
+                "None_DarkShirt_TightPants": {
+                    "Gender": "Female"
+                },
+                "TotemMask_FakeMusclesShirt_Shorts": {
+                    "Gender": "Female"
+                },
+                "None_CollaredShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "HardHat_OilStainedShirt_RelaxedFitPants": {
+                    "Gender": "Female"
+                },
+                "PartyHatRed_HappyShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_RetroRainbowShirt_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_Shirt1116_FarmerPants": {
+                    "Gender": "Female"
+                },
+                "None_Shirt1126_BaggyPants": {
+                    "Gender": "Female"
+                },
+                "None_BasicPulloverM_TightPants": {
+                    "Gender": "Female"
+                }
+            }
+        }
+        
+    ]
+}

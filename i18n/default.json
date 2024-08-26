@@ -1,0 +1,16 @@
+{
+    "config.ClothingStyle.name": "Clothing Style",
+    "config.ClothingStyle.description": "The clothing style (masculine or feminine) to get from tailoring. \"Default\" uses your farmer's in-game gender/body type. \"Random\" will randomly give you the M or F version each time you craft.",
+    "config.ClothingStyle.values.default": "default",
+    "config.ClothingStyle.values.masculine": "masculine",
+    "config.ClothingStyle.values.feminine": "feminine",
+    "config.ClothingStyle.values.random": "random",
+
+    "config.MakeoverOutfitStyle.name": "Makeover Outfit Style",
+    "config.MakeoverOutfitStyle.description": "The outfit style you will get from the Desert Festival makeover. \"Default\" uses your farmer's in-game gender/body type. \"Any\" means you can get masculine, feminine, or neutral outfits. \"Neutral only\" will only give you outfits that the game marks as neither feminine nor masculine.",
+    "config.MakeoverOutfitStyle.values.default": "default",
+    "config.MakeoverOutfitStyle.values.masculine": "masculine",
+    "config.MakeoverOutfitStyle.values.feminine": "feminine",
+    "config.MakeoverOutfitStyle.values.any": "any",
+    "config.MakeoverOutfitStyle.values.neutralonly": "neutral only"
+}

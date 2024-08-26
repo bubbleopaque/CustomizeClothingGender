@@ -1,0 +1,11 @@
+{
+    "Name": "Customize Clothing Gender", 
+    "Author": "bubbleopaque",
+    "Version": "1.0.0",
+    "Description": "Allows the player to customize the \"gender\" of clothing they receive.",
+    "UniqueID": "bubbleopaque.CustomizeClothingGender",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

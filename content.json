@@ -1,0 +1,25 @@
+{
+    "Format": "2.3.0",
+
+    "ConfigSchema": {
+        "ClothingStyle": {
+            "AllowValues": "Default, Masculine, Feminine, Random",
+            "Default": "Default"
+        },
+        "MakeoverOutfitStyle": {
+            "AllowValues": "Default, Masculine, Feminine, Any, NeutralOnly",
+            "Default": "Default"
+        }
+    },
+
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "assets/tailoring.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/makeover.json"
+        }
+    ]
+}
